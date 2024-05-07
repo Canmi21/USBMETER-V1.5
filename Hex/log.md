@@ -42,7 +42,7 @@ This update is only available as an OTA update package.
 7. Fixed a display misalignment issue with currents over 10A.
 8. Improved the accuracy and consistency of ADC readings.
 9. Added support for deceiving more Xiaomi proprietary heads.
-10. Added the ability to read EPR cables with Emarker (added in the previous version).
+10. Added the ability to read EPR cables with Emarker (added in the previous version).   
 Note: The previous version's optimization for entering OTA mode using the CC line may cause modded PD heads using AC line to enter OTA with infinite screen flashing. If flashing occurs, hold the + key while pressing the corresponding deception button.
 
 ## 1.1.8
@@ -54,7 +54,7 @@ Note: The previous version's optimization for entering OTA mode using the CC lin
 6. Added EX message unpacking.
 7. Added identifiers for self-generated packets and CRC packets in unpacking.
 8. The firmware no longer differentiates between screen types, hold the confirmation button for 8s or more on the main interface to switch screen types.
-9. Truly added the ability to read EPR cables with Emarker this time.
+9. Truly added the ability to read EPR cables with Emarker this time.   
 Note: If encountering a flashing screen when entering OTA, hold the + key while pressing the corresponding deception button. It is recommended to use OTA upgrades as TTL upgrades will result in loss of all stored data, including registration information.
 
 ## 1.1.9
@@ -81,7 +81,7 @@ Note: If encountering a flashing screen when entering OTA, hold the + key while 
 8. Added a buffer waiting and detection interface when entering QC deception to prevent quick-hand operation failures.
 9. Fixed an issue where the forced CC pull-down operation via the + key became ineffective after flipping the screen.
 10. Interface color scheme refreshed, overall colors unified, and PPS and QC3 deception interfaces redrawn.
-11. After registration, the version information interface displays the device's SN and registration information.
+11. After registration, the version information interface displays the device's SN and registration information.   
 (Note: In version 1.1.9, the method to enter OTA update changed to holding the - key on power-up; it is recommended to use OTA upgrade, as TTL upgrade will lose all stored data including registration information).
 
 ## 1.2.1 Emergency Bug Fix
@@ -95,5 +95,5 @@ Note: If encountering a flashing screen when entering OTA, hold the + key while 
 3. Fixed some minor bugs.
 
 ## 1.2.3
-1. Registration exempted.
+1. Registration exempted.   
 (Note: "Registration" has been removed in version 1.2.3).

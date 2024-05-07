@@ -2,3 +2,4 @@
 *.bin linguist-language=C++
 *.html linguist-language=html
 *.gerber.zip linguist-language=Gerber-Image
+*.pcbdoc linguist-language=Altium Designer

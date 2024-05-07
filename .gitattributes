@@ -1,8 +1,10 @@
 *.pcbdoc linguist-language=Altium
 *.md linguist-language=Markdown
 *.bin linguist-language=C++
-*.html linguist-detectable=false
+*.html linguist-detectable=ture
 *.gerber.zip linguist-language=Gerber
+*.md linguist-detectable=true
+*.gerber linguist-detectable=true
 *.OutJob linguist-detectable=true
 *.PcbDoc linguist-detectable=true
 *.PrjPCB linguist-detectable=true

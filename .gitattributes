@@ -5,6 +5,7 @@
 *.html linguist-detectable=ture
 *.gerber.zip linguist-language=Gerber
 *.md linguist-detectable=true
+*.xlsx linguist-detectable=true
 *.epro linguist-detectable=true
 *.gerber linguist-detectable=true
 *.OutJob linguist-detectable=true

@@ -1,0 +1,4 @@
+*.md linguist-language=Markdown
+*.bin linguist-language=C++
+*.html linguist-language=html
+*.zip linguist-language=Gerber

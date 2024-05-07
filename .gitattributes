@@ -1,5 +1,1 @@
-*.md linguist-language=Markdown
-*.bin linguist-language=C++
-*.html linguist-language=html
-*.gerber.zip linguist-language=Gerber
-*.pcbdoc linguist-language=Altium
+

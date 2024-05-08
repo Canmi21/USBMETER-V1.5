@@ -7,8 +7,7 @@ The project is a revision of an open-source project. The original project uses t
 [Click here for the original project](https://oshwhub.com/qaxslk/dai-PD-QCyou-pian-jian-ce-yi-ji-) (Chinese Only)
 
 The only distribution channel for this project is Github.   
-[GitHub Repository](https://github.com/Canmi21/USBMETER-V1.5)   
-GPL3.0 ONLY IN Https://GITHUB.COM(.IO)     
+[GitHub Repository](https://github.com/Canmi21/USBMETER-V1.5) GPL3.0 ONLY IN Https://GITHUB.COM(.IO)     
 
 ## What's the difference with this project?    
 

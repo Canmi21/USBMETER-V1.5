@@ -1,6 +1,6 @@
 # USBMETER-V1.5
 Update version of USBMETER from OSHWHub
 
-### Wait for update   
+### Awaiting Update   
 
 [Logs](https://github.com/Canmi21/USBMETER-V1.5/wiki/Software-Logs)

@@ -1,7 +1,7 @@
 # USBMETER V1.5 by Canmi (Canmi21) DONE-2024-05-07.   
-QQ-Group Github Oshwahub THE TRANSLATION MAY NOT BE ENTIRELY ACCURATE!!!   
+[QQ-Group](https://qm.qq.com/q/h2H0e5FvUI "788013120") [GitHub](https://github.com/Canmi21/USBMETER-V1.5) [Oshwahub](https://oshwhub.com/qaxslk/dai-PD-QCyou-pian-jian-ce-yi-ji-) THE TRANSLATION MAY NOT BE ENTIRELY ACCURATE!!!   
 English (95%) & Chinese (100%) Ver1.0 Edu Only DO NOT SELL THIS FILE!!!   
-英语(US) & 中文(简体) Ver1.0 仅供交流学习，禁止商业该文件以及原开源工程   
+英语(US) & 中文(简体) Ver2.2 仅供交流学习，禁止商业该文件以及原开源工程   
 
 The project is a revision of an open-source project. The original project uses the CC BY NC SA open-source license. The source author is Qaxslk. The source project link:
 [Click here for the original project](https://oshwhub.com/qaxslk/dai-PD-QCyou-pian-jian-ce-yi-ji-) (Chinese Only)

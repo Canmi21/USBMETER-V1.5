@@ -3,6 +3,7 @@
 *.md linguist-language=Markdown
 *.bin linguist-language=C++
 *.html linguist-detectable=ture
+*.pdf linguist-detectable=true
 *.gerber.zip linguist-language=Gerber
 *.md linguist-detectable=true
 *.xlsx linguist-detectable=true

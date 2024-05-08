@@ -17,7 +17,7 @@ The only distribution channel for this project is Github.
 - Added a toggle switch to serve as the (Emark)EPR adapter mode.   
 
 Get more information on GitHub!!! GPL3.0   
-[GitHub Repository](https://github.com/Canmi21/USBMETER-V1.5)   [GitHub Wiki]([https://github.com/Canmi21/USBMETER-V1.5](https://github.com/Canmi21/USBMETER-V1.5/wiki)) 
+[GitHub Repository](https://github.com/Canmi21/USBMETER-V1.5)   [GitHub Wiki](https://github.com/Canmi21/USBMETER-V1.5/wiki) 
 
 
 **Note:** This project is currently being organized and compiled for material production and wiki. If you can understand Chinese websites, it is recommended to visit [Oshwhub](https://oshwhub.com/qaxslk/dai-PD-QCyou-pian-jian-ce-yi-ji-) to replicate this project, or wait for the project material and tutorial to be completed before replication.

@@ -9,6 +9,8 @@ The project is a revision of an open-source project. The original project uses t
 The only distribution channel for this project is Github.   
 [GitHub Repository](https://github.com/Canmi21/USBMETER-V1.5) GPL3.0 ONLY IN Https://GITHUB.COM(.IO)     
 
+![USBMETER-V1.5](https://raw.githubusercontent.com/Canmi21/USBMETER-V1.5/main/assets/main.png)
+
 ## What's the difference with this project?    
 
 - Fixed an issue where the original Type-C (USB-C) male connector could not perform 5A PDO deception or EPR deception.   

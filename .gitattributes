@@ -1,7 +1,7 @@
 *.pcbdoc linguist-language=Altium
 *.epro linguist-language=EasyEDA
 *.md linguist-language=Markdown
-*.bin linguist-language=C++
+*.bin linguist-language=C
 *.html linguist-detectable=ture
 *.pdf linguist-detectable=true
 *.gerber.zip linguist-language=Gerber

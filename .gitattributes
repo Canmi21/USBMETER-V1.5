@@ -2,7 +2,7 @@
 *.epro linguist-language=EasyEDA
 *.md linguist-language=Markdown
 *.bin linguist-language=C
-*.html linguist-detectable=ture
+*.html linguist-detectable=false
 *.pdf linguist-detectable=true
 *.gerber.zip linguist-language=Gerber
 *.md linguist-detectable=true
